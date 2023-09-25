@@ -1,0 +1,14 @@
+﻿body {
+    align-content:center;
+}
+.footer {
+    background-color: aquamarine;
+   align-content:center;
+}
+.header {
+    background-color: blueviolet;
+    align-content: center;
+}
+.content{
+    height:500px;
+}
